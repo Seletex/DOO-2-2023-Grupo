@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  h1 {
+    margin-bottom: 20px;
+  }
+  
+  #word-container {
+    margin-bottom: 20px;
+  }
+  
+  #guess-container {
+    margin-bottom: 20px;
+  }
+  
+  #attempts-container {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
